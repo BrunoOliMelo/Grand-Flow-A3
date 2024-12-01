@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "80930166958",
+    "project_id": "grand-flow",
+    "storage_bucket": "grand-flow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80930166958:android:bfd4b4a8693637c57e353f",
+        "android_client_info": {
+          "package_name": "com.grandcompany.grand_flow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80930166958-8hnf9uh2s1tkhugj1nvknt5ga25r379h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.grandcompany.grand_flow",
+            "certificate_hash": "016bf42f9e6a6e68fd7f33283dec8438143904aa"
+          }
+        },
+        {
+          "client_id": "80930166958-5928gg4ta2dk6k0ic8hgpk2v923kkopj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQC-soFtRhGtBDO0bWat4DmVMPf1SBmRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80930166958-5928gg4ta2dk6k0ic8hgpk2v923kkopj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
