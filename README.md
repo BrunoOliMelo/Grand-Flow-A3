@@ -1,16 +1,19 @@
-# grand_flow
+# Grand Flow - To Do List
 
-A new Flutter project.
+## Integrantes do Grupo
+- Breno Oliveira da Silva  RA 12723131992
+- Bruno Oliveira Melo      RA 12723111120
+- Felipe Miranda Santana   RA 1271716805
 
-## Getting Started
+## Sobre o Aplicativo
+Grand Flow é um aplicativo desenvolvido em Flutter para gerenciar suas tarefas de forma prática e eficiente. Com ele, você pode adicionar, editar e remover suas tarefas do dia a dia, mantendo-se organizado e produtivo.
 
-This project is a starting point for a Flutter application.
+## Link para a APK
+Você pode baixar o APK do Grand Flow através do seguinte link:
 
-A few resources to get you started if this is your first Flutter project:
+[Download da APK](https://drive.google.com/drive/folders/1kAaqL20C78v7w2FyuaWhGiSJUnwO9lv6?usp=sharing)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Demonstração do App
+Assista ao vídeo de demonstração do nosso aplicativo:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Vídeo de Demonstração](https://drive.google.com/file/d/17v4Ulj5-H0XLmem3qgv-3E9K2Ry3mIh3/view?usp=sharing)
